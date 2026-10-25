@@ -36,12 +36,6 @@ Servez-vous de ce dépôt comme d'une banque de marque-pages. Grâce à la table
 
 Par souci de simplicité et d'accessibilité, ce dépôt va continuer à grandir dans un fichier *bien à plat*. C'est comme dans une brocante, faut faire un tour pour voir. Mais bon, il y'a quand même une [table des matières](#table-des-matières), la recherche par mot-clef et des hyperliens pour faciliter la navigation.
 
-## Contribuez et partagez
-
-Des liens morts ? Une typo ? Une ressource que vous trouvez pertinente n'est pas présente ici et vous voulez la partager ?
-
-Proposez votre contribution via l'ouverture d'une issue ou d'une [Pull Request](http://thelia-school.com/faire-une-pull-request-sur-un-projet-thelia/faire-une-pull-request.html). Avant de soumettre une suggestion, merci de lire [Comment contribuer au dépôt ?](CONTRIBUTING.md)
-
 *No time to lose !*
 
 <img src="img/./no%20time%20to%20lose.jpeg" alt="No time to lose ! (Monty Python Flying Circus)" width="600"/>
