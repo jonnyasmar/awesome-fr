@@ -1949,6 +1949,7 @@ D'autres dépôts comme celui-ci.
 
 - [GameDev Ressources](https://github.com/Kavex/GameDev-Resources), un dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils, etc.)
 - [Magic tools](https://github.com/ellisonleao/magictools), un autre dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils, etc.)
+- [RespawnStack](https://respawnstack.com), répertoire d'outils IA pour le développement de jeux
 - [Keys to Economic Systems](https://gdkeys.com/keys-to-economic-systems/?utm_source=pocket_mylist), un excellent article sur la modélisation de systèmes économiques dans un jeu vidéo.
 - [Game Loop, game programming pattern](https://gameprogrammingpatterns.com/game-loop.html), un article complet sur l'implémentation d'une game loop et ses différentes variantes
 - [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/), un classique de Glenn Fiedler sur son site [Gaffer On Games](https://gafferongames.com/)
